@@ -24,8 +24,6 @@ This is part of my journey as an **MS Data Science student** focusing on **AI & 
 ---
 
 
----
-
 ## 🚀 Implemented Architectures
 
 ### 🔹 Artificial Neural Network (ANN)
